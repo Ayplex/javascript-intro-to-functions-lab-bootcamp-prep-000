@@ -18,5 +18,5 @@ function sayHiToGrandma(string) {
 }
 function sayHiToGrandma(string) {
   console.log('YES INDEED!')
-  return "I can\'t hear you!"
+  return "YES INDEED!"
 }
