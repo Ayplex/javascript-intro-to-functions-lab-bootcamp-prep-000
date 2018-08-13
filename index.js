@@ -13,6 +13,6 @@ function logWhisper(string) {
   return string.toLowerCase()
 }
 function sayHiToGrandma(string) {
-  if 'string' sayHiToGrandma(string) = .toLowerCase()
+  if 
   let return string.toLowerCase()
 }
