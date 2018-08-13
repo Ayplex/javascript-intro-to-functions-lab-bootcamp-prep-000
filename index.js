@@ -13,6 +13,6 @@ function logWhisper(string) {
   return string.toLowerCase()
 }
 function sayHiToGrandma(string) {
-  expect(sayHiToGrandma('hello')).toEqual('I can\'t hear you!')
-  return string.toLowerCase()
+  console.log('hello').toLowerCase()
+  return "I can\'t hear you"
 }
