@@ -16,7 +16,7 @@ function sayHiToGrandma(string) {
   console.log('hello')
   return 'I can\'t hear you!'
   
-  console.log('HELLO!')
+  console.log('string')
   return "YES INDEED!"
   
   console.log('I love you, Grandma.')
